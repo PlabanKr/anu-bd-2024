@@ -14,6 +14,7 @@ const Img1 = () => {
         boxSize="100%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
       <Image
         src="/temp/a1.jpg"
@@ -21,6 +22,7 @@ const Img1 = () => {
         boxSize="40%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
     </>
   )
@@ -34,6 +36,7 @@ const Img2 = () => {
         boxSize="100%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
       <Image
         src="/temp/a2.jpg"
@@ -41,6 +44,7 @@ const Img2 = () => {
         boxSize="15%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
     </>
   )
@@ -54,6 +58,7 @@ const Img3 = () => {
         boxSize="100%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
       <Image
         src="/temp/a3.jpg"
@@ -61,6 +66,7 @@ const Img3 = () => {
         boxSize="15%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
     </>
   )
@@ -74,6 +80,7 @@ const Img4 = () => {
         boxSize="100%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
       <Image
         src="/temp/a4.jpg"
@@ -81,6 +88,7 @@ const Img4 = () => {
         boxSize="15%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
     </>
   )
@@ -94,6 +102,7 @@ const Img5 = () => {
         boxSize="100%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
       <Image
         src="/temp/a5.jpg"
@@ -101,6 +110,7 @@ const Img5 = () => {
         boxSize="15%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
     </>
   )
@@ -114,6 +124,7 @@ const Img6 = () => {
         boxSize="100%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
       <Image
         src="/temp/a6.jpg"
@@ -121,6 +132,7 @@ const Img6 = () => {
         boxSize="15%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
     </>
   )
@@ -134,6 +146,7 @@ const Img7 = () => {
         boxSize="100%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
       <Image
         src="/temp/a7.jpg"
@@ -141,6 +154,7 @@ const Img7 = () => {
         boxSize="15%"
         objectFit="contain"
         mb={4}
+        loading="lazy"
       />
     </>
   )
